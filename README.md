@@ -137,7 +137,6 @@ fun_fact: "I turn caffeine into distributed systems"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pallavdeshmukh18&show_icons=true&theme=tokyonight&border_color=00f7ff&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavdeshmukh18&theme=tokyonight&border=00f7ff&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=c9d1d9" />
 </div>
 
@@ -147,64 +146,7 @@ fun_fact: "I turn caffeine into distributed systems"
   <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&theme=tokyonight&border_color=00f7ff&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=8&hide_border=false" />
 </div>
 
-<br>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pallavdeshmukh18&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area_color=00f7ff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pallavdeshmukh18&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallavdeshmukh18/pallavdeshmukh18/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallavdeshmukh18/pallavdeshmukh18/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/pallavdeshmukh18/pallavdeshmukh18/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
->
-> <details>
-> <summary>Click to see the Snake workflow setup</summary>
->
-> Create `.github/workflows/snake.yml`:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
->
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: pallavdeshmukh18
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
