@@ -1,121 +1,242 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Pallav+Deshmukh+👋;AI+%7C+FinTech+%7C+Automation+Builder;Electronics+%26+Telecom+Engineer+@+SPIT;Building+Real-World+Systems+🚀" />
-</p>
+<div align="center">
 
----
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:00b4d8&height=220&section=header&text=Pallav%20Deshmukh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20FinTech%20%7C%20Automation%20Builder&descSize=18&descAlignY=55&descColor=00f7ff"/>
 
-# 🚀 About Me
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Electronics+%26+Telecom+Engineer+%40+SPIT;%F0%9F%94%A5+Building+Real-World+Systems+That+Scale;%F0%9F%A7%A0+AI+%E2%80%A2+FinTech+%E2%80%A2+Backend+%E2%80%A2+Automation" />
+</a>
 
-🎓 Electronics & Telecommunication Engineering @ SPIT Mumbai
+<!-- PROFILE BADGES -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=pallavdeshmukh18&style=for-the-badge&color=00f7ff&labelColor=0d1117&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://github.com/pallavdeshmukh18?tab=followers">
+  <img src="https://img.shields.io/github/followers/pallavdeshmukh18?style=for-the-badge&color=00f7ff&labelColor=0d1117&logo=github" />
+</a>
+&nbsp;
+<a href="https://github.com/pallavdeshmukh18?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/pallavdeshmukh18?style=for-the-badge&color=00f7ff&labelColor=0d1117&logo=github" />
+</a>
 
-I enjoy building real-world systems combining AI, fintech, and automation.  
-My work focuses on backend systems, intelligent automation, and AI-powered tools.
+</div>
 
-Currently exploring:
+<!-- GRADIENT LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 🤖 AI-powered automation systems  
-- 💰 FinTech infrastructure  
-- ⚡ Backend architecture & distributed systems  
-- 🌐 Full-stack applications  
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
----
+```yaml
+name: Pallav Deshmukh
+location: Mumbai, India
+education: Electronics & Telecommunication Engineering @ SPIT
 
-# 🧠 Featured Projects
+current_focus:
+  - 🤖 AI-Powered Automation Systems
+  - 💰 FinTech Infrastructure & Risk Systems
+  - ⚡ Backend Architecture & Distributed Systems
+  - 🌐 Full-Stack Application Development
 
-### 🤖 Scout
-AI-powered outreach automation platform built for a hackathon.
+fun_fact: "I turn caffeine into distributed systems"
+```
 
-Features include:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- AI lead scoring
-- Telegram chatbot assistant
-- Voice calling AI agent
-- Chrome extension for LinkedIn outreach
-- Collaborative outreach dashboard
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
-🏆 Runner-Up at Hackathon
+<div align="center">
 
----
+| Domain | Technologies |
+|:---:|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres&theme=dark" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" /> |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧠 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Scout &nbsp;<img src="https://img.shields.io/badge/🏆-Hackathon_Runner_Up-gold?style=flat-square"/>
+
+> AI-powered outreach automation platform
+
+- 🎯 AI lead scoring engine
+- 💬 Telegram chatbot assistant
+- 📞 Voice calling AI agent
+- 🔗 Chrome extension for LinkedIn
+- 📊 Collaborative dashboard
+
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Trade Risk Gate
-Real-time portfolio monitoring and risk control system that simulates institutional trading infrastructure.
 
-Tech: Node.js • Express • Redis • MongoDB
+> Real-time portfolio monitoring & risk control
 
----
+- 📈 Institutional trading simulation
+- ⚡ Real-time risk analytics
+- 🔄 Live portfolio monitoring
+
+`Node.js` `Express` `Redis` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏦 PreDelphi
-AI-powered pre-delinquency intervention system that helps financial institutions detect financial distress before loan default.
 
-Tech: Next.js • Node.js • Python • MongoDB
+> AI-powered pre-delinquency intervention
 
----
+- 🔍 Financial distress detection
+- 🏛️ Institutional-grade system
+- 📉 Pre-default intervention
+
+`Next.js` `Node.js` `Python` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎵 Music Source Separation
-Deep learning system that separates vocals, drums, bass, and instruments using the Demucs model.
 
----
+> Deep learning audio decomposition
+
+- 🎤 Vocal isolation
+- 🥁 Drum/bass/instrument separation
+- 🧬 Powered by Demucs model
+
+`Python` `PyTorch` `Demucs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
 
 ### 🧬 DermAI
-AI system designed to assist in skin condition analysis using machine learning models.
 
-Focuses on applying AI for health-tech diagnostics and early detection support.
+> AI-assisted skin condition analysis for early detection & health-tech diagnostics
 
----
+`Python` `Machine Learning` `Computer Vision`
 
-# 🛠 Tech Stack
+</td>
+</tr>
+</table>
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Frameworks & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" />
-</p>
+## 📊 GitHub Analytics
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,redis" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pallavdeshmukh18&show_icons=true&theme=tokyonight&border_color=00f7ff&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavdeshmukh18&theme=tokyonight&border=00f7ff&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=c9d1d9" />
+</div>
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
+<br>
 
----
+<div align="center">
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&theme=tokyonight&border_color=00f7ff&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=8&hide_border=false" />
+</div>
 
-# 📈 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pallavdeshmukh18&show_icons=true&theme=tokyonight"/>
-</p>
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pallavdeshmukh18&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area_color=00f7ff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# 🔥 Most Used Languages
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pallavdeshmukh18&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
+</div>
 
-# 🏆 Hackathons
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-🏆 Runner-Up — Hackathon Project “Scout”
+## 🐍 Contribution Snake
 
-Built an AI-powered outreach automation system integrating lead scoring, chatbots, and voice AI workflows.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallavdeshmukh18/pallavdeshmukh18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallavdeshmukh18/pallavdeshmukh18/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/pallavdeshmukh18/pallavdeshmukh18/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
 
----
+> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
+>
+> <details>
+> <summary>Click to see the Snake workflow setup</summary>
+>
+> Create `.github/workflows/snake.yml`:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+>
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: pallavdeshmukh18
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> </details>
 
-# 📫 Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-📧 pallav.deshmukh24@spit.ac.in
+## 📫 Let's Connect
 
-💻 GitHub  
-https://github.com/pallavdeshmukh18
+<div align="center">
 
----
+<a href="mailto:pallav.deshmukh24@spit.ac.in">
+  <img src="https://img.shields.io/badge/Email-pallav.deshmukh24@spit.ac.in-00f7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/pallavdeshmukh18">
+  <img src="https://img.shields.io/badge/GitHub-pallavdeshmukh18-00f7ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/pallavdeshmukh18">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00f7ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
 
-⭐ Always building. Always learning.
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="70%"/>
+</div>
+
+<br>
+
+<!-- ANIMATED FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7ff,100:00b4d8&height=120&section=footer"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Always+building.+Always+learning.+%E2%9A%A1;Open+to+collaborations+and+cool+projects+%F0%9F%A4%9D" />
+</div>
