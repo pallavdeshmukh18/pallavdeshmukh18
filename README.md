@@ -90,7 +90,7 @@ Focuses on applying AI for health-tech diagnostics and early detection support.
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallavdeshmukh18&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pallavdeshmukh18&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@ Focuses on applying AI for health-tech diagnostics and early detection support.
 # 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&theme=tokyonight"/>
 </p>
 
 # 🏆 Hackathons
