@@ -1,174 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0B1020,45:312E81,75:6D28D9,100:0E7490&text=PALLAV%20DESHMUKH&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Backend&descSize=20&descAlignY=63&descColor=E2E8F0&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,75:7c3aed,100:06b6d4&height=220&section=header&text=Pallav%20Deshmukh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Backend%20%7C%20FinTech&descSize=18&descAlignY=58&descColor=e2e8f0" alt="Pallav Deshmukh" />
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+AI-powered+products;Designing+backend+systems;Exploring+FinTech+and+automation;Turning+complex+problems+into+software" alt="Typing animation" />
 
-<img src="https://img.shields.io/badge/AI_SYSTEMS-8B5CF6?style=flat-square&labelColor=111827">
-<img src="https://img.shields.io/badge/BACKEND-3B82F6?style=flat-square&labelColor=111827">
-<img src="https://img.shields.io/badge/FINTECH-06B6D4?style=flat-square&labelColor=111827">
-<img src="https://img.shields.io/badge/AUTOMATION-14B8A6?style=flat-square&labelColor=111827">
+<br />
 
-<br><br>
+[![Email](https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:pallav.deshmukh24@spit.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/pallav-deshmukh-a69557301/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/pallavdeshmukh18)
 
-<a href="https://www.linkedin.com/in/pallav-deshmukh-a69557301/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=60A5FA">
-</a>
-&nbsp;
-<a href="mailto:pallav.deshmukh24@spit.ac.in">
-<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=A78BFA">
-</a>
-&nbsp;
-<a href="https://github.com/pallavdeshmukh18">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF">
-</a>
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=pallavdeshmukh18&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## ABOUT
+## About
 
-I'm a software engineer focused on **AI systems, backend architecture, financial technology, and automation**.
+I'm a software engineer focused on **AI systems, backend engineering, FinTech, and automation**.
 
-I like building software where the difficult part isn't just the model or the interface — it's everything connecting them: **data, infrastructure, APIs, workflows, and reliability**.
-
-Currently studying at **SPIT** and building things that solve actual problems.
+I enjoy building products where software has to deal with real data, real workflows, and real constraints — from financial systems and predictive models to AI-powered platforms and backend infrastructure.
 
 ---
 
-## SELECTED WORK
+## Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,fastapi,flask,mongodb,postgres,redis,docker,git,github,linux&theme=dark" alt="Tech stack" />
+
+</div>
+
+---
+
+## Featured Work
 
 <table>
-<tr>
+  <tr>
+    <td width="50%" valign="top">
 
-<td width="50%" valign="top">
+### Scout
 
-### 01 · Trade Risk Gate
-
-**Real-time portfolio monitoring & risk control**
-
-A financial system built around real-time portfolio analytics and risk-critical workflows.
-
-`Backend` `FinTech` `Risk`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 02 · Scout
-
-**AI-powered outreach automation**
-
-Combines lead intelligence, scoring, AI agents and automated workflows into one platform.
+AI-powered outreach automation platform combining lead intelligence, scoring, voice agents, and automated workflows.
 
 `AI` `Agents` `Automation`
 
-</td>
+  </td>
 
-</tr>
+  <td width="50%" valign="top">
 
-<tr>
+### Trade Risk Gate
 
-<td width="50%" valign="top">
+Real-time portfolio monitoring and risk-control system for trading simulations and financial analytics.
 
-### 03 · PreDelphi
+`FinTech` `Risk Systems` `Backend`
 
-**Predictive financial intelligence**
+  </td>
+  </tr>
 
-Uses machine learning to identify early signals of financial distress and enable proactive intervention.
+  <tr>
+    <td width="50%" valign="top">
+
+### PreDelphi
+
+Predictive financial intelligence system focused on identifying early signals of financial distress.
 
 `ML` `Finance` `Prediction`
 
-</td>
+  </td>
 
-<td width="50%" valign="top">
+  <td width="50%" valign="top">
 
-### 04 · DermAI
+### DermAI
 
-**Computer vision for AI-assisted analysis**
+Computer-vision system exploring AI-assisted skin condition analysis.
 
-An applied computer-vision system exploring AI-assisted analysis of skin conditions.
+`Computer Vision` `Deep Learning` `ML`
 
-`Computer Vision` `Deep Learning`
-
-</td>
-
-</tr>
+  </td>
+  </tr>
 </table>
 
 ---
 
-## STACK
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,nodejs,react,nextjs,fastapi,express,docker,postgres,mongodb,redis,linux,git,github&perline=9">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pallavdeshmukh18&show_icons=true&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=7c3aed&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&langs_count=8" alt="Top languages" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=pallavdeshmukh18&theme=transparent&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## GITHUB
+## Contributions
 
 <div align="center">
 
-<a href="https://github.com/pallavdeshmukh18?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/pallavdeshmukh18?tab=stars">
-<img src="https://img.shields.io/badge/STARRED_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=pallavdeshmukh18&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-<details>
-<summary><b>More about my work</b></summary>
-
-<br>
-
-### AI
-
-Applied machine learning, computer vision, predictive systems and AI-powered workflows.
-
-### Backend
-
-API design, data-heavy services, asynchronous workflows, databases and infrastructure.
-
-### FinTech
-
-Risk monitoring, financial prediction, portfolio analytics and decision systems.
-
-### Automation
-
-Replacing repetitive, multi-step workflows with reliable software and intelligent agents.
-
-</details>
-
----
-
 <div align="center">
 
-### LET'S BUILD SOMETHING.
+### Let's build something worth shipping.
 
-<br>
+<br />
 
-<a href="https://www.linkedin.com/in/pallav-deshmukh-a69557301/">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:pallav.deshmukh24@spit.ac.in">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/pallavdeshmukh18">GitHub</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square">
-<img src="https://img.shields.io/badge/BACKEND-3B82F6?style=flat-square">
-<img src="https://img.shields.io/badge/SYSTEMS-06B6D4?style=flat-square">
-<img src="https://img.shields.io/badge/AUTOMATION-14B8A6?style=flat-square">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-312e81?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pallav-deshmukh-a69557301/)
+[![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:pallav.deshmukh24@spit.ac.in)
 
 </div>
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:7c3aed,75:312e81,100:0f172a&height=120&section=footer" alt="Footer" />
