@@ -4,16 +4,13 @@
 
 ### Software Engineer · AI Systems · Backend
 
-Building intelligent products, data-heavy systems, and automation.
+**Building intelligent products, data-heavy systems, and automation.**
 
 <br>
 
-<a href="https://www.linkedin.com/in/pallav-deshmukh-a69557301/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:pallav.deshmukh24@spit.ac.in">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallav-deshmukh-a69557301/)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:pallav.deshmukh24@spit.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/pallavdeshmukh18)
 
 </div>
 
@@ -23,7 +20,7 @@ Building intelligent products, data-heavy systems, and automation.
 
 I'm a software engineer focused on **AI, backend systems, and automation**.
 
-I like building things that sit between messy data and real-world decisions — from financial intelligence and risk systems to AI-powered workflows.
+I like building software where complex data has to become something useful — from financial intelligence and risk systems to AI-powered workflows and automation platforms.
 
 Currently studying Electronics & Telecommunication Engineering at **SPIT**.
 
@@ -35,21 +32,21 @@ Currently studying Electronics & Telecommunication Engineering at **SPIT**.
 <tr>
 <td width="50%">
 
-### Trade Risk Gate
+### 💹 Trade Risk Gate
 
 Real-time portfolio monitoring and risk-control system.
 
-**Backend · FinTech · Risk**
+`Backend` · `FinTech` · `Risk`
 
 </td>
 
 <td width="50%">
 
-### Scout
+### 🤖 Scout
 
-AI-powered outreach and workflow automation platform.
+AI-powered outreach platform combining agents, lead intelligence and automation.
 
-**AI · Agents · Automation**
+`AI` · `Agents` · `Automation`
 
 </td>
 </tr>
@@ -57,21 +54,21 @@ AI-powered outreach and workflow automation platform.
 <tr>
 <td width="50%">
 
-### PreDelphi
+### 🧠 PreDelphi
 
 Predictive financial intelligence for early intervention.
 
-**ML · Finance · Prediction**
+`ML` · `Finance` · `Prediction`
 
 </td>
 
 <td width="50%">
 
-### DermAI
+### 👁️ DermAI
 
 Computer-vision system for AI-assisted skin analysis.
 
-**Computer Vision · Deep Learning**
+`Computer Vision` · `Deep Learning`
 
 </td>
 </tr>
@@ -81,51 +78,48 @@ Computer-vision system for AI-assisted skin analysis.
 
 ## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,typescript,javascript,nodejs,react,nextjs,fastapi,docker,postgres,mongodb,redis,linux,git,github" />
-
-</div>
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pallavdeshmukh18&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af" width="40%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavdeshmukh18&bg_color=00000000&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true" width="94%"/>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,nodejs,react,nextjs,fastapi,express,docker,postgres,mongodb,redis,linux,git,github&perline=9" />
+  </a>
+</p>
 
 ---
 
-## Currently
+## What I'm Working On
 
 - Building AI-powered software
-- Exploring agentic workflows and backend architecture
+- Exploring agentic workflows
+- Designing backend systems and APIs
 - Working on financial intelligence and automation
 - Going deeper into distributed systems
 
 ---
 
+## GitHub
+
+<p align="center">
+
+<a href="https://github.com/pallavdeshmukh18?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20my%20repositories-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/pallavdeshmukh18?tab=stars">
+<img src="https://img.shields.io/badge/What%20I'm%20interested%20in-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
-**AI · Backend · Systems · Automation**
+### AI · Backend · Systems · Automation
 
 <br>
 
-<a href="https://www.linkedin.com/in/pallav-deshmukh-a69557301/">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/in/pallav-deshmukh-a69557301/)
 &nbsp; · &nbsp;
-<a href="mailto:pallav.deshmukh24@spit.ac.in">Email</a>
+[Email](mailto:pallav.deshmukh24@spit.ac.in)
 
 </div>
