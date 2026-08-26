@@ -8,6 +8,13 @@ Building intelligent products and the infrastructure behind them.
 
 <br>
 
+<img src="https://img.shields.io/badge/AI_SYSTEMS-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/BACKEND-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/FINTECH-0891B2?style=flat-square">
+<img src="https://img.shields.io/badge/AUTOMATION-06B6D4?style=flat-square">
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/pallav-deshmukh-a69557301/">
 <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white">
 </a>
@@ -22,19 +29,11 @@ Building intelligent products and the infrastructure behind them.
 
 </div>
 
-<br>
-
-<div align="center">
-
-`AI SYSTEMS` &nbsp;·&nbsp; `BACKEND` &nbsp;·&nbsp; `FINTECH` &nbsp;·&nbsp; `AUTOMATION`
-
-</div>
-
 ---
 
 ## ABOUT
 
-I'm a software engineer interested in **AI systems, backend architecture, financial technology, and automation**.
+I'm a software engineer focused on **AI systems, backend architecture, financial technology, and automation**.
 
 I like building software where the difficult part isn't just the model or the interface — it's everything connecting them: **data, infrastructure, APIs, workflows, and reliability**.
 
@@ -49,25 +48,29 @@ Currently studying at **SPIT** and building things that solve actual problems.
 
 <td width="50%" valign="top">
 
-### `01` · Trade Risk Gate
+### 01 · Trade Risk Gate
 
 **Real-time portfolio monitoring & risk control**
 
 A financial system built around real-time portfolio analytics and risk-critical workflows.
 
-`Backend` `FinTech` `Risk Systems`
+<img src="https://img.shields.io/badge/Backend-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/FinTech-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/Risk-0891B2?style=flat-square">
 
 </td>
 
 <td width="50%" valign="top">
 
-### `02` · Scout
+### 02 · Scout
 
 **AI-powered outreach automation**
 
 Combines lead intelligence, scoring, AI agents and automated workflows into one platform.
 
-`AI` `Agents` `Automation`
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Agents-DB2777?style=flat-square">
+<img src="https://img.shields.io/badge/Automation-06B6D4?style=flat-square">
 
 </td>
 
@@ -77,25 +80,28 @@ Combines lead intelligence, scoring, AI agents and automated workflows into one 
 
 <td width="50%" valign="top">
 
-### `03` · PreDelphi
+### 03 · PreDelphi
 
 **Predictive financial intelligence**
 
 Uses machine learning to identify early signals of financial distress and enable proactive intervention.
 
-`ML` `Finance` `Prediction`
+<img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Finance-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/Prediction-0891B2?style=flat-square">
 
 </td>
 
 <td width="50%" valign="top">
 
-### `04` · DermAI
+### 04 · DermAI
 
-**Computer vision for skin analysis**
+**Computer vision for AI-assisted analysis**
 
 An applied computer-vision system exploring AI-assisted analysis of skin conditions.
 
-`Computer Vision` `Deep Learning`
+<img src="https://img.shields.io/badge/Computer_Vision-DB2777?style=flat-square">
+<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square">
 
 </td>
 
@@ -110,63 +116,69 @@ An applied computer-vision system exploring AI-assisted analysis of skin conditi
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,nodejs,react,nextjs,fastapi,express,docker,postgres,mongodb,redis,linux,git,github&perline=9">
 
-</div>
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 
 <br>
 
-<div align="center">
-
-**Languages**  
-Python · C++ · Java · TypeScript · JavaScript
-
-**Backend**  
-Node.js · FastAPI · Express
-
-**Frontend**  
-React · Next.js
-
-**Infrastructure**  
-Docker · Linux · PostgreSQL · MongoDB · Redis
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 </div>
 
 ---
 
-## NOW
+## WHAT I BUILD
 
 <table>
 <tr>
-<td width="25%" align="center">
 
-### BUILDING
+<td align="center" width="25%">
 
-AI-powered software
+### AI
 
-</td>
-
-<td width="25%" align="center">
-
-### EXPLORING
-
-AI agents & workflows
+Agents  
+Prediction  
+Computer Vision
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### FOCUSING
+### BACKEND
 
-Backend architecture
+APIs  
+Data Systems  
+Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### FINTECH
+
+Risk  
+Analytics  
+Intelligence
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### INTERESTED
+### AUTOMATION
 
-FinTech & automation
+Workflows  
+Integrations  
+Agents
 
 </td>
+
 </tr>
 </table>
 
@@ -177,22 +189,12 @@ FinTech & automation
 <div align="center">
 
 <a href="https://github.com/pallavdeshmukh18?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-18181B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/pallavdeshmukh18?tab=stars">
-<img src="https://img.shields.io/badge/Explore-18181B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/STARRED_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pallavdeshmukh18&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&icon_color=22d3ee&rank_icon=github&include_all_commits=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=9ca3af&langs_count=6" width="40%">
 
 </div>
 
@@ -225,18 +227,19 @@ Replacing repetitive, multi-step workflows with reliable software and intelligen
 
 <div align="center">
 
-### BUILD · SHIP · ITERATE
+### LET'S BUILD SOMETHING.
 
-<br>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Backend-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/Systems-0891B2?style=flat-square">
+<img src="https://img.shields.io/badge/Automation-06B6D4?style=flat-square">
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/pallav-deshmukh-a69557301/">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:pallav.deshmukh24@spit.ac.in">Email</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/pallavdeshmukh18">GitHub</a>
-
-<br><br>
-
-<sub>AI · Backend · Systems · Automation</sub>
 
 </div>
