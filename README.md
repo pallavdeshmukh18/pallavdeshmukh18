@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,75:7c3aed,100:06b6d4&height=220&section=header&text=Pallav%20Deshmukh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Backend%20%7C%20FinTech&descSize=18&descAlignY=58&descColor=e2e8f0" alt="Pallav Deshmukh" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,45:1C2541,75:3A506B,100:5BC0BE&height=220&section=header&text=Pallav%20Deshmukh&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Backend%20%7C%20FinTech&descSize=18&descAlignY=58&descColor=D9E2EC" alt="Pallav Deshmukh" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+AI-powered+products;Designing+backend+systems;Exploring+FinTech+and+automation;Turning+complex+problems+into+software" alt="Typing animation" />
-
-<br />
-
-[![Email](https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee)](mailto:pallav.deshmukh24@spit.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/pallav-deshmukh-a69557301/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/pallavdeshmukh18)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=5BC0BE&center=true&vCenter=true&width=760&lines=Building+AI-powered+products;Designing+backend+systems;Exploring+FinTech+and+automation;Turning+complex+problems+into+software" alt="Typing animation" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=pallavdeshmukh18&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+[![Email](https://img.shields.io/badge/Email-Contact-0B132B?style=for-the-badge&logo=gmail&logoColor=F4B942)](mailto:pallav.deshmukh24@spit.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B132B?style=for-the-badge&logo=linkedin&logoColor=5BC0BE)](https://www.linkedin.com/in/pallav-deshmukh-a69557301/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0B132B?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/pallavdeshmukh18)
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=pallavdeshmukh18&style=for-the-badge&color=3A506B&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -90,9 +90,9 @@ Computer-vision system exploring AI-assisted skin condition analysis.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pallavdeshmukh18&show_icons=true&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=7c3aed&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pallavdeshmukh18&show_icons=true&theme=transparent&hide_border=true&title_color=5BC0BE&text_color=C9D1D9&icon_color=F4B942&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavdeshmukh18&layout=compact&theme=transparent&hide_border=true&title_color=5BC0BE&text_color=C9D1D9&langs_count=8" alt="Top languages" />
 
 </div>
 
@@ -100,7 +100,7 @@ Computer-vision system exploring AI-assisted skin condition analysis.
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=pallavdeshmukh18&theme=transparent&hide_border=true&ring=7c3aed&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=pallavdeshmukh18&theme=transparent&hide_border=true&ring=5BC0BE&fire=F4B942&currStreakLabel=5BC0BE&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
 
 </div>
 
@@ -122,11 +122,21 @@ Computer-vision system exploring AI-assisted skin condition analysis.
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-312e81?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pallav-deshmukh-a69557301/)
-[![Email](https://img.shields.io/badge/Email-Contact-0f766e?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:pallav.deshmukh24@spit.ac.in)
+<img src="https://img.shields.io/badge/AI-3A506B?style=flat-square">
+<img src="https://img.shields.io/badge/Backend-1C2541?style=flat-square">
+<img src="https://img.shields.io/badge/Systems-5BC0BE?style=flat-square">
+<img src="https://img.shields.io/badge/FinTech-F4B942?style=flat-square">
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/pallav-deshmukh-a69557301/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:pallav.deshmukh24@spit.ac.in">Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/pallavdeshmukh18">GitHub</a>
 
 </div>
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:7c3aed,75:312e81,100:0f172a&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5BC0BE,45:3A506B,75:1C2541,100:0B132B&height=100&section=footer" alt="Footer" />
